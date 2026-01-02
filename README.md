@@ -35,7 +35,7 @@ class MyClass {
 
 ## 2b)experiment
 
----java
+```java
 class OverloadExample {
 
     int add(int a, int b) {
@@ -60,7 +60,7 @@ class OverloadExample {
     }
 }
 
----
+```
 
 ## output
 
@@ -69,7 +69,7 @@ class OverloadExample {
 
 ## 2c)experiment
 
----java 
+```java 
 class Student {
 
     String name;
@@ -95,7 +95,7 @@ class Student {
     }
 }
 
----
+```
 
 ## output
 
