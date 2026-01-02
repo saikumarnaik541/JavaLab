@@ -33,7 +33,9 @@ class MyClass {
 
 
 
-#2b)experiment
+## 2b)experiment
+
+---java
 
 class OverloadExample {
 
@@ -59,13 +61,16 @@ class OverloadExample {
     }
 }
 
+---
 
-#output
+## output
 
 <img width="966" height="236" alt="Screenshot 2026-01-02 093431" src="https://github.com/user-attachments/assets/06c6254e-6256-42c4-97bf-a313928538dd" />
 
 
-#2c)experiment
+## 2c)experiment
+
+---java 
 
 class Student {
 
@@ -92,9 +97,9 @@ class Student {
     }
 }
 
+---
 
-
-#output
+## output
 
 
 <img width="910" height="239" alt="Screenshot 2026-01-02 093443" src="https://github.com/user-attachments/assets/8b6ff475-b229-48b0-91aa-5b40a4657413" />
